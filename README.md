@@ -13,6 +13,7 @@
     <img align="center" alt="carlos-git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
     <img align="center" alt="carlos-vagrant" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg">
     <img align="center" alt="carlos-linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
+    <img align="center" alt="carlos-ansible" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg">
 </div>
   
   <br/>
