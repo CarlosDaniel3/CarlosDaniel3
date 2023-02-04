@@ -16,12 +16,7 @@
     <img align="center" alt="carlos-python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
     <img align="center" alt="carlos-kubernetes" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
 </div>
-  
-  
-  https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg
   <br/>
   <div> 
   <a href="https://www.linkedin.com/in/carlos-daniel-oliveira-nunes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  </div>
-
-
