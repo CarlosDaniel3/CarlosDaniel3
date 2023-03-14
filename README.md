@@ -8,13 +8,13 @@
 <div style="display: inline_block"><br>
     <img align="center" alt="carlos-aws" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
     <img align="center" alt="carlos-docker" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
+    <img align="center" alt="carlos-kubernetes" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
     <img align="center" alt="carlos-terraform" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
     <img align="center" alt="carlos-git" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/git/git-original.svg">
     <img align="center" alt="carlos-vagrant" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/vagrant/vagrant-original.svg">
     <img align="center" alt="carlos-linux" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/linux/linux-original.svg">
     <img align="center" alt="carlos-ansible" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/ansible/ansible-original.svg">
     <img align="center" alt="carlos-go" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
-    <img align="center" alt="carlos-kubernetes" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
     <img align="center" alt="carlos-prometheus" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg">
     <img align="center" alt="carlos-grafana" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg">
 </div>
