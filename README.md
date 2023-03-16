@@ -17,6 +17,7 @@
     <img align="center" alt="carlos-go" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/go/go-original.svg">
     <img align="center" alt="carlos-prometheus" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg">
     <img align="center" alt="carlos-grafana" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg">
+    <img align="center" alt="carlos-packer" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/packer/packer-original.svg">
 </div>
   <br/>
   <div> 
