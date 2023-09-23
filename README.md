@@ -17,6 +17,8 @@
     <img align="center" alt="carlos-prometheus" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/prometheus/prometheus-original.svg">
     <img align="center" alt="carlos-grafana" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/grafana/grafana-original.svg">
     <img align="center" alt="carlos-packer" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/packer/packer-original.svg">
+    <img align="center" alt="carlos-python" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg">
+    <img align="center" alt="carlos-bash" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/bash/bash-original.svg">
 </div>
   <br/>
   <div> 
