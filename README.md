@@ -6,7 +6,6 @@
 </div>
 
 <div style="display: inline_block"><br>
-    <img align="center" alt="carlos-aws" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/amazonwebservices/amazonwebservices-original.svg">
     <img align="center" alt="carlos-docker" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/docker/docker-original.svg">
     <img align="center" alt="carlos-kubernetes" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/kubernetes/kubernetes-plain.svg">
     <img align="center" alt="carlos-terraform" height="40" width="50" src="https://github.com/devicons/devicon/blob/master/icons/terraform/terraform-original.svg">
